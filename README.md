@@ -1,8 +1,6 @@
 <h1 align="center">🌟 Hi, I'm Anika Gangwar 🌟</h1>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anika_20?theme=dark&font=Fira+Code&ext=contest" alt="Anika's LeetCode Stats" />
-</p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/anika_20?theme=dark&font=Fira+Code&ext=activity&ext=contest" alt="LeetCode Stats for Anika"> </p>
 
 ---
 
