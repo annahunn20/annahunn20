@@ -1,4 +1,19 @@
 <h1 align="center">🌟 Hi, I'm Anika Gangwar 🌟</h1>
+<h2>👋 About Me</h2>
+<p>
+  I am a passionate <strong>3rd-year B.Tech Computer Science & Engineering student</strong> at  
+  <a href="https://kiit.ac.in/" target="_blank" rel="noopener noreferrer">Kalinga Institute of Industrial Technology, Bhubaneswar</a> 🎓.
+</p>
+<p>
+  Driven by curiosity and innovation, I am eager to deepen my skills in <strong>Artificial Intelligence 🤖, Machine Learning 📊, Web Development 💻</strong>, and other emerging technologies shaping our future 🌟.
+</p>
+<p>
+  Outside the world of code, I love expressing creativity through <em>singing 🎤, sketching 🎨</em>, and experimenting in the kitchen with cooking 🍳.  
+  I believe that a balanced life fuels better learning and innovation! 🚀
+</p>
+<p>
+  Always open to collaborating on exciting projects and learning new things — feel free to connect! 🤝
+</p>
 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/anika_20?theme=dark&font=Fira+Code&ext=activity&ext=contest" alt="LeetCode Stats for Anika" /> </p>
 <p align="center"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=anika_20&theme=tokyonight&animated=true" alt="LeetCode Badges Showcase"> </p>
