@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hi, I'm Anika Gangwar 🌟</h1>
 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/anika_20?theme=dark&font=Fira+Code&ext=activity&ext=contest" alt="LeetCode Stats for Anika" /> </p>
-
+<p align="center"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=anika_20&theme=tokyonight&animated=true" alt="LeetCode Badges Showcase"> </p>
 
 ---
 
